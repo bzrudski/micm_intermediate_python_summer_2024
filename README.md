@@ -1,10 +1,10 @@
 # Intermediate Python Workshop - Summer 2024
 
 Student version: 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzrudski/micm_intermediate_python_summer_2024/blob/main/code/IntroToPythonBZR.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzrudski/micm_intermediate_python_summer_2024/blob/main/code/BenjaminRudskiIntermediatePython.ipynb)
 
 Solutions version:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzrudski/micm_intermediate_python_summer_2024/blob/main/solutions/IntroToPythonBZR.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzrudski/micm_intermediate_python_summer_2024/blob/main/solutions/BenjaminRudskiIntermediatePython.ipynb)
 
 Dear reader,  
 This repository contains the code, outline and slides for the MiCM Intermediate Python workshop at McGill in Summer 2024.
